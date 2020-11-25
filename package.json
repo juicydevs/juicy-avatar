@@ -1,11 +1,11 @@
 {
   "main": "src/main.js",
-  "name": "juicy-avatar",
-  "description": "beautiful and stable plugin for user avatar",
-  "version": "1.0.0",
+  "name": "vue-juicy-avatar",
+  "repository": "https://github.com/juicydevs/juicy-avatar",
+  "description": "Beautiful and stable component for avatar upload",
+  "version": "1.0.1",
   "author": "Andrey Alifirenko (ais.alifirenko@gmail.com)",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"

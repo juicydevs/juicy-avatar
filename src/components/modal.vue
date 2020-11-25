@@ -99,7 +99,7 @@ export default {
       cropData: null,
       avatarFile: null,
       base64: null,
-      defaultAvatar: '/src/assets/images/blank-avatar.png'
+      defaultAvatar: 'https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-300'
     }
   },
   methods: {

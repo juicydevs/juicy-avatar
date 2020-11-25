@@ -30,7 +30,7 @@ export default {
     return {
       isUserBlankAvatar: true,
       isShowAddPhotoLabel: true,
-      blankImageUrl: '/src/assets/images/blank-avatar.png',
+      blankImageUrl: 'https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-300',
       labels: {
         addPhoto: 'Add Photo'
       }
