@@ -84,13 +84,13 @@ ID "juicyAvatar" required, component don't loaded without him
 
 ## Events
 
-| Event                             | Description                               Return
-| ----------------------------------|-----------------------------------------|--------------------------
-| v-on:juicy-avatar-modal-show      | Gets called when modal open             |    void
-| v-on:juicy-avatar-modal-close     | Gets called when modal close            |    void
-| v-on:juicy-avatar-error-uploaded  | Gets called at uploading error.         |    error object
-| v-on:juicy-avatar-success-uploaded| Gets called at uploading success.       |    response from server
-| v-on:juicy-avatar-validation-error| Gets called at validation error         |    void
+| Event                             | Description                             | Return
+|-----------------------------------|-----------------------------------------|--------------------------
+| v-on:juicy-avatar-modal-show      | Gets called when modal open             |  void
+| v-on:juicy-avatar-modal-close     | Gets called when modal close            |  void
+| v-on:juicy-avatar-error-uploaded  | Gets called at uploading error.         |  error object
+| v-on:juicy-avatar-success-uploaded| Gets called at uploading success.       |  response from server
+| v-on:juicy-avatar-validation-error| Gets called at validation error         |  void
 
 ## License
 The source code of this library is licensed under MIT, the documentation and photos are belong to their respective owners.
