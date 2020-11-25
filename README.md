@@ -7,7 +7,7 @@
 
 > **WARNING**: This component is in beta test stage.
 
-![](https://github.com/norserium/vue-advanced-cropper/blob/master/example/readme/example.gif?raw=true)
+![](https://github.com/juicydevs/juicy-avatar/blob/main/ezgif.com-gif-maker.gif?raw=true)
 
 ## Install
 
