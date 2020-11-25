@@ -1,2 +1,2 @@
 # juicy-avatar
-Vue2. Beautiful and stable plugin for user avatar
+The component juicy avatar that gives you opportunity to select avatar / upload to server / crop
